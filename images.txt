@@ -1,4 +1,4 @@
 nginx
-kafka
+confluentinc/cp-kafka:latest
 elasticsearch
 
