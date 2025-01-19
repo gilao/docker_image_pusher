@@ -2,3 +2,4 @@ nginx
 confluentinc/cp-kafka:latest
 docker.elastic.co/elasticsearch/elasticsearch:7.17.6
 alpine:latest
+nextcloud
