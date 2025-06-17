@@ -5,3 +5,4 @@ alpine:latest
 nextcloud
 nvidia/cuda:12.6.3-base-ubuntu24.04
 docker.io/minio/minio
+python:3.11-slim
