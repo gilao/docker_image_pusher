@@ -7,4 +7,4 @@ nvidia/cuda:12.6.3-base-ubuntu24.04
 docker.io/minio/minio
 docker.io/library/python:3.11-slim
 timescale/timescaledb:latest-pg16
-timescale/timescaledb-postgis:latest-pg16
+timescale/timescaledb-ha:pg16-latest
