@@ -1,10 +1,2 @@
-nginx
-confluentinc/cp-kafka:latest
-docker.elastic.co/elasticsearch/elasticsearch:7.17.6
-alpine:latest
-nextcloud
-nvidia/cuda:12.6.3-base-ubuntu24.04
-docker.io/minio/minio
-docker.io/library/python:3.11-slim
 timescale/timescaledb:latest-pg16
 timescale/timescaledb-ha:pg16-latest
