@@ -1,2 +1,2 @@
 timescale/timescaledb:latest-pg16
-timescale/timescaledb-ha:pg16-latest
+timescale/timescaledb-ha:latest-pg16
