@@ -1,2 +1,3 @@
 timescale/timescaledb:latest-pg16
 timescale/timescaledb-ha:latest-pg16
+minio
