@@ -1,3 +1,2 @@
-quay.io/coreos/etcd:v3.5.0
-ankane/pgvector
-redis:alpine
+alpine:latest
+golang:1.24.4
