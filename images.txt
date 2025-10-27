@@ -1,2 +1,4 @@
-alpine:latest
-golang:1.24.4
+bitnamilegacy/elasticsearch:8.18.0
+bitnamilegacy/redis:8.0
+bitnamilegacy/etcd:3.5
+milvusdb/milvus:v2.5.10
